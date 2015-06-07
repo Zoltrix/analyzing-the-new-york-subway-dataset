@@ -1,0 +1,5 @@
+Each and every reference i used is mentioned in a comment in the code i provided to solve problem sets 2-5. It's mainly stack overflow.
+
+Other:
+http://bconnelly.net/2013/10/summarizing-data-in-python-with-pandas/
+http://stackoverflow.com/questions/24195825/group-by-aggregate-list-of-dictionaries-in-python
